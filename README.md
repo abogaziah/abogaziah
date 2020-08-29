@@ -14,7 +14,7 @@ I work mainly on [PySyft](https://github.com/OpenMined/PySyft), Specficlly on Se
  ## Writings
  
 I don't see a point of making my own blog, I'm not that influential, so I use medium:
- - [Debug your life like a DRL agent](https://medium.com/@abogaziah/debug-your-life-like-a-drl-agent-cf34b0a6d6d)   (I'm so proud of this one, please read it I promise it's good enough 😄)
+ - [Debug your life like a DRL agent](https://medium.com/@abogaziah/debug-your-life-like-a-drl-agent-cf34b0a6d6d)   (I'm so proud of this one ❤)
  -  [The essence of modular arithmetic](https://medium.com/@abogaziah/the-essence-of-modular-arithmetic-d43418789f51?source=your_stories_page---------------------------)
  - [Assemble your Zero cost, Zero programming, no time, reservation&check-in system](https://medium.com/@abogaziah/assemble-your-zero-cost-zero-programming-no-time-reservation-check-in-system-93a4124374f2?source=your_stories_page---------------------------)
 
