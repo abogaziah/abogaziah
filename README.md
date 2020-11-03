@@ -1,5 +1,5 @@
 # Hello! 👋
-I'm Muhammed, an undergraduate Electrical and Computer Engineering student at [Tanta University](https://tanta.edu.eg/). I'm fascinated by human intelligence, conscious, evolution, life, and all that complicated awsome stuff we take for granted. So, Machine learning, Deep Learning, and specifically Deep Reinforcement learning were the areas I found most intersting, I love it and it influenced my philosophy and my whole view of life.
+I'm Muhammed, an undergraduate Electrical and Computer Engineering student at [Tanta University](https://tanta.edu.eg/). I'm fascinated by human intelligence, consciousness, evolution, life, and all that complicated awesome stuff we take for granted. So, Machine learning, Deep Learning, and specifically Deep Reinforcement learning were the areas I found most intersting,, I love it and it influenced my philosophy and my whole view of life.
 
 I have some experience working on secure machine learning as a cryptography team member of OpenMined, it's also something I love doing, protecting privacy, it makes me feel like a superhero. I love whatever influences people's lives and makes the world a better place, that my value function I work to maximize. 
 
